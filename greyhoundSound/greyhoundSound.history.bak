@@ -1,0 +1,735 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<UndoHistory>
+  <UndoTransaction tv-sec="1631649407" tv-usec="298735" name="Region end trim">
+    <StatefulDiffCommand obj-id="756" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <length from="1151033" to="412945"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <MementoCommand obj-id="46" type-name="VideoTimeLine">
+      <SelectionMemento mouse-mode="MouseObject" zoom="1222" left-frame="0" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="756"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="1222" left-frame="0" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="756"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1631649408" tv-usec="943810" name="change fade out length">
+    <MementoCommand obj-id="759" type-name="ARDOUR::AutomationList">
+      <AutomationList automation-id="fadeout" id="759" interpolation-style="Curved" state="Off">
+        <events>0 1
+1.9393939971923828 0.99886733911550885
+3.8787879943847656 0.99547192230339399
+5.8181819915771484 0.98982144127527472
+7.7575759887695312 0.98192869618882905
+9.6969699859619141 0.97181156665131863
+11.636363983154297 0.9594929712165241
+13.57575798034668 0.94500081546684744
+15.515151977539062 0.92836792879818764
+17.454545974731445 0.90963199005079642
+19.393939971923828 0.88883544215458044
+21.333333969116211 0.86602539598220885
+23.272727966308594 0.84125352362782713
+25.212121963500977 0.81457594135313838
+27.151515960693359 0.78605308246601313
+29.090909957885742 0.75574956041960206
+31.030303955078125 0.72373402244207363
+32.969696044921875 0.69007902790898956
+34.909091949462891 0.65486071464754436
+36.848487854003906 0.61815892823618979
+38.787879943847656 0.5800568864602571
+40.727272033691406 0.54064083177629574
+42.666667938232422 0.49999997297228316
+44.606063842773438 0.45822645111753457
+46.545455932617188 0.41541498203247024
+48.484848022460938 0.37166246619609478
+50.424243927001953 0.32706792846270311
+52.363639831542969 0.28173247517396005
+54.303031921386719 0.2357588969086416
+56.242424011230469 0.18925124993221634
+58.181819915771484 0.1423147961488434
+60.1212158203125 0.095055952925701945
+64 1.0000000116860974e-07
+</events>
+      </AutomationList>
+      <AutomationList automation-id="fadeout" id="759" interpolation-style="Curved" state="Off">
+        <events>0 1
+4848.1819626688957 0.99886733911550885
+9696.3639253377914 0.99547192230339399
+14544.545888006687 0.98982144127527472
+19392.727850675583 0.98192869618882905
+24240.909813344479 0.97181156665131863
+29089.091776013374 0.9594929712165241
+33937.27373868227 0.94500081546684744
+38785.455701351166 0.92836792879818764
+43633.637664020061 0.90963199005079642
+48481.819626688957 0.88883544215458044
+53330.001589357853 0.86602539598220885
+58178.183552026749 0.84125352362782713
+63026.365514695644 0.81457594135313838
+67874.54747736454 0.78605308246601313
+72722.729440033436 0.75574956041960206
+77570.911402702332 0.72373402244207363
+82419.088597297668 0.69007902790898956
+87267.275328040123 0.65486071464754436
+92115.462058782578 0.61815892823618979
+96963.639253377914 0.5800568864602571
+101811.81644797325 0.54064083177629574
+106660.00317871571 0.49999997297228316
+111508.18990945816 0.45822645111753457
+116356.3671040535 0.41541498203247024
+121204.54429864883 0.37166246619609478
+126052.73102939129 0.32706792846270311
+130900.91776013374 0.28173247517396005
+135749.09495472908 0.2357588969086416
+140597.27214932442 0.18925124993221634
+145445.45888006687 0.1423147961488434
+150293.64561080933 0.095055952925701945
+159990 1.0000000116860974e-07
+</events>
+      </AutomationList>
+    </MementoCommand>
+    <MementoCommand obj-id="46" type-name="VideoTimeLine">
+      <SelectionMemento mouse-mode="MouseObject" zoom="1222" left-frame="0" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="756"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="1222" left-frame="0" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="756"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1631649414" tv-usec="820701" name="Region end trim">
+    <StatefulDiffCommand obj-id="756" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <length from="412945" to="465491"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <MementoCommand obj-id="46" type-name="VideoTimeLine">
+      <SelectionMemento mouse-mode="MouseObject" zoom="1222" left-frame="0" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="756"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="1222" left-frame="0" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="756"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1631649416" tv-usec="349710" name="change fade out length">
+    <MementoCommand obj-id="759" type-name="ARDOUR::AutomationList">
+      <AutomationList automation-id="fadeout" id="759" interpolation-style="Curved" state="Off">
+        <events>0 1
+4848.1819626688957 0.99886733911550885
+9696.3639253377914 0.99547192230339399
+14544.545888006687 0.98982144127527472
+19392.727850675583 0.98192869618882905
+24240.909813344479 0.97181156665131863
+29089.091776013374 0.9594929712165241
+33937.27373868227 0.94500081546684744
+38785.455701351166 0.92836792879818764
+43633.637664020061 0.90963199005079642
+48481.819626688957 0.88883544215458044
+53330.001589357853 0.86602539598220885
+58178.183552026749 0.84125352362782713
+63026.365514695644 0.81457594135313838
+67874.54747736454 0.78605308246601313
+72722.729440033436 0.75574956041960206
+77570.911402702332 0.72373402244207363
+82419.088597297668 0.69007902790898956
+87267.275328040123 0.65486071464754436
+92115.462058782578 0.61815892823618979
+96963.639253377914 0.5800568864602571
+101811.81644797325 0.54064083177629574
+106660.00317871571 0.49999997297228316
+111508.18990945816 0.45822645111753457
+116356.3671040535 0.41541498203247024
+121204.54429864883 0.37166246619609478
+126052.73102939129 0.32706792846270311
+130900.91776013374 0.28173247517396005
+135749.09495472908 0.2357588969086416
+140597.27214932442 0.18925124993221634
+145445.45888006687 0.1423147961488434
+150293.64561080933 0.095055952925701945
+159990 1.0000000116860974e-07
+</events>
+      </AutomationList>
+      <AutomationList automation-id="fadeout" id="759" interpolation-style="Curved" state="Off">
+        <events>0 1
+6773.7577776312837 0.99886733911550885
+13547.515555262567 0.99547192230339399
+20321.273332893848 0.98982144127527472
+27095.031110525135 0.98192869618882905
+33868.788888156414 0.97181156665131863
+40642.546665787697 0.9594929712165241
+47416.304443418987 0.94500081546684744
+54190.06222105027 0.92836792879818764
+60963.819998681553 0.90963199005079642
+67737.577776312828 0.88883544215458044
+74511.335553944111 0.86602539598220885
+81285.093331575394 0.84125352362782713
+88058.851109206676 0.81457594135313838
+94832.608886837974 0.78605308246601313
+101606.36666446926 0.75574956041960206
+108380.12444210054 0.72373402244207363
+115153.87555789949 0.69007902790898956
+121927.63999736311 0.65486071464754436
+128701.40443682672 0.61815892823618979
+135475.15555262566 0.5800568864602571
+142248.90666842461 0.54064083177629574
+149022.67110788822 0.49999997297228316
+155796.43554735184 0.45822645111753457
+162570.18666315079 0.41541498203247024
+169343.93777894974 0.37166246619609478
+176117.70221841335 0.32706792846270311
+182891.46665787697 0.28173247517396005
+189665.21777367595 0.2357588969086416
+196438.9688894749 0.18925124993221634
+203212.73332893851 0.1423147961488434
+209986.49776840213 0.095055952925701945
+223534.00000000003 1.0000000116860974e-07
+</events>
+      </AutomationList>
+    </MementoCommand>
+    <MementoCommand obj-id="46" type-name="VideoTimeLine">
+      <SelectionMemento mouse-mode="MouseObject" zoom="1222" left-frame="0" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="756"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="1222" left-frame="0" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="756"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1631649430" tv-usec="404118" name="region drag">
+    <StatefulDiffCommand obj-id="756" type-name="ARDOUR::AudioRegion">
+      <Changes/>
+    </StatefulDiffCommand>
+    <MementoCommand obj-id="46" type-name="VideoTimeLine">
+      <SelectionMemento mouse-mode="MouseObject" zoom="1222" left-frame="0" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="756"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="1222" left-frame="0" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="756"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1631649433" tv-usec="822795" name="Region start trim">
+    <StatefulDiffCommand obj-id="756" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <start from="0" to="188188"/>
+        <length from="465491" to="277303"/>
+        <position from="0" to="188188"/>
+        <beat from="0" to="7.8411666666666671"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <MementoCommand obj-id="46" type-name="VideoTimeLine">
+      <SelectionMemento mouse-mode="MouseObject" zoom="1222" left-frame="0" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="756"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="1222" left-frame="0" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="756"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1631649439" tv-usec="771668" name="region drag">
+    <StatefulDiffCommand obj-id="756" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <position from="188188" to="171080"/>
+        <beat from="7.8411666666666671" to="7.1283333333333339"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <MementoCommand obj-id="46" type-name="VideoTimeLine">
+      <SelectionMemento mouse-mode="MouseObject" zoom="1222" left-frame="0" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="756"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="1222" left-frame="0" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="756"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1631649446" tv-usec="524865" name="region drag">
+    <StatefulDiffCommand obj-id="756" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <position from="171080" to="142974"/>
+        <beat from="7.1283333333333339" to="5.9572500000000002"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <MementoCommand obj-id="46" type-name="VideoTimeLine">
+      <SelectionMemento mouse-mode="MouseObject" zoom="1222" left-frame="0" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="756"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="1222" left-frame="0" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="756"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1631649453" tv-usec="900579" name="Region end trim">
+    <StatefulDiffCommand obj-id="756" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <length from="277303" to="350623"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <MementoCommand obj-id="46" type-name="VideoTimeLine">
+      <SelectionMemento mouse-mode="MouseObject" zoom="1222" left-frame="0" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="756"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="1222" left-frame="0" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="756"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1631649455" tv-usec="444682" name="change fade out length">
+    <MementoCommand obj-id="759" type-name="ARDOUR::AutomationList">
+      <AutomationList automation-id="fadeout" id="759" interpolation-style="Curved" state="Off">
+        <events>0 1
+6773.7577776312837 0.99886733911550885
+13547.515555262567 0.99547192230339399
+20321.273332893848 0.98982144127527472
+27095.031110525135 0.98192869618882905
+33868.788888156414 0.97181156665131863
+40642.546665787697 0.9594929712165241
+47416.304443418987 0.94500081546684744
+54190.06222105027 0.92836792879818764
+60963.819998681553 0.90963199005079642
+67737.577776312828 0.88883544215458044
+74511.335553944111 0.86602539598220885
+81285.093331575394 0.84125352362782713
+88058.851109206676 0.81457594135313838
+94832.608886837974 0.78605308246601313
+101606.36666446926 0.75574956041960206
+108380.12444210054 0.72373402244207363
+115153.87555789949 0.69007902790898956
+121927.63999736311 0.65486071464754436
+128701.40443682672 0.61815892823618979
+135475.15555262566 0.5800568864602571
+142248.90666842461 0.54064083177629574
+149022.67110788822 0.49999997297228316
+155796.43554735184 0.45822645111753457
+162570.18666315079 0.41541498203247024
+169343.93777894974 0.37166246619609478
+176117.70221841335 0.32706792846270311
+182891.46665787697 0.28173247517396005
+189665.21777367595 0.2357588969086416
+196438.9688894749 0.18925124993221634
+203212.73332893851 0.1423147961488434
+209986.49776840213 0.095055952925701945
+223534.00000000003 1.0000000116860974e-07
+</events>
+      </AutomationList>
+      <AutomationList automation-id="fadeout" id="759" interpolation-style="Curved" state="Off">
+        <events>0 1
+8921.5154173970222 0.99886733911550885
+17843.030834794044 0.99547192230339399
+26764.546252191063 0.98982144127527472
+35686.061669588089 0.98192869618882905
+44607.577086985104 0.97181156665131863
+53529.092504382126 0.9594929712165241
+62450.607921779163 0.94500081546684744
+71372.123339176178 0.92836792879818764
+80293.6387565732 0.90963199005079642
+89215.154173970208 0.88883544215458044
+98136.66959136723 0.86602539598220885
+107058.18500876425 0.84125352362782713
+115979.70042616127 0.81457594135313838
+124901.21584355833 0.78605308246601313
+133822.73126095533 0.75574956041960206
+142744.24667835236 0.72373402244207363
+151665.75332164764 0.69007902790898956
+160587.2775131464 0.65486071464754436
+169508.80170464516 0.61815892823618979
+178430.30834794042 0.5800568864602571
+187351.8149912357 0.54064083177629574
+196273.33918273446 0.49999997297228316
+205194.86337423322 0.45822645111753457
+214116.3700175285 0.41541498203247024
+223037.87666082379 0.37166246619609478
+231959.40085232255 0.32706792846270311
+240880.92504382131 0.28173247517396005
+249802.43168711665 0.2357588969086416
+258723.93833041194 0.18925124993221634
+267645.46252191067 0.1423147961488434
+276566.98671340942 0.095055952925701945
+294410 1.0000000116860974e-07
+</events>
+      </AutomationList>
+    </MementoCommand>
+    <MementoCommand obj-id="46" type-name="VideoTimeLine">
+      <SelectionMemento mouse-mode="MouseObject" zoom="1222" left-frame="0" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="756"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="1222" left-frame="0" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="756"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1631649500" tv-usec="700675" name="move marker">
+    <MementoCommand obj-id="52" type-name="ARDOUR::Locations">
+      <Locations>
+        <Location id="168" name="session" start="142974" end="493596" flags="IsSessionRange" locked="0" position-lock-style="AudioTime" timestamp="1631647975"/>
+      </Locations>
+      <Locations>
+        <Location id="168" name="session" start="0" end="493596" flags="IsSessionRange" locked="0" position-lock-style="AudioTime" timestamp="1631647975"/>
+      </Locations>
+    </MementoCommand>
+    <MementoCommand obj-id="46" type-name="VideoTimeLine">
+      <SelectionMemento mouse-mode="MouseObject" zoom="1222" left-frame="0" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="756"/>
+          </Regions>
+          <Marker id="168" start="1"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="1222" left-frame="0" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="756"/>
+          </Regions>
+          <Marker id="168" start="1"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1631649503" tv-usec="255469" name="move marker">
+    <MementoCommand obj-id="52" type-name="ARDOUR::Locations">
+      <Locations>
+        <Location id="168" name="session" start="0" end="493596" flags="IsSessionRange" locked="0" position-lock-style="AudioTime" timestamp="1631647975"/>
+      </Locations>
+      <Locations>
+        <Location id="168" name="session" start="0" end="576692" flags="IsSessionRange" locked="0" position-lock-style="AudioTime" timestamp="1631647975"/>
+      </Locations>
+    </MementoCommand>
+    <MementoCommand obj-id="46" type-name="VideoTimeLine">
+      <SelectionMemento mouse-mode="MouseObject" zoom="1222" left-frame="0" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="756"/>
+          </Regions>
+          <Marker id="168" start="0"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="1222" left-frame="0" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="756"/>
+          </Regions>
+          <Marker id="168" start="0"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1631649504" tv-usec="992421" name="move marker">
+    <MementoCommand obj-id="52" type-name="ARDOUR::Locations">
+      <Locations>
+        <Location id="168" name="session" start="0" end="576692" flags="IsSessionRange" locked="0" position-lock-style="AudioTime" timestamp="1631647975"/>
+      </Locations>
+      <Locations>
+        <Location id="168" name="session" start="0" end="576000" flags="IsSessionRange" locked="0" position-lock-style="AudioTime" timestamp="1631647975"/>
+      </Locations>
+    </MementoCommand>
+    <MementoCommand obj-id="46" type-name="VideoTimeLine">
+      <SelectionMemento mouse-mode="MouseObject" zoom="1222" left-frame="0" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="756"/>
+          </Regions>
+          <Marker id="168" start="0"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="1222" left-frame="0" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="756"/>
+          </Regions>
+          <Marker id="168" start="0"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1631649510" tv-usec="564301" name="set loop range">
+    <MementoCommand obj-id="52" type-name="ARDOUR::Locations">
+      <Locations>
+        <Location id="168" name="session" start="0" end="576000" flags="IsSessionRange" locked="0" position-lock-style="AudioTime" timestamp="1631647975"/>
+      </Locations>
+      <Locations>
+        <Location id="168" name="session" start="0" end="576000" flags="IsSessionRange" locked="0" position-lock-style="AudioTime" timestamp="1631647975"/>
+        <Location id="841" name="Loop" start="46436" end="283198" flags="IsAutoLoop" locked="0" position-lock-style="AudioTime" timestamp="1631649510"/>
+      </Locations>
+    </MementoCommand>
+    <MementoCommand obj-id="46" type-name="VideoTimeLine">
+      <SelectionMemento mouse-mode="MouseObject" zoom="1222" left-frame="0" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="756"/>
+          </Regions>
+          <Marker id="168" start="0"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="1222" left-frame="0" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="756"/>
+          </Regions>
+          <Marker id="168" start="0"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1631649511" tv-usec="268480" name="move marker">
+    <MementoCommand obj-id="52" type-name="ARDOUR::Locations">
+      <Locations>
+        <Location id="168" name="session" start="0" end="576000" flags="IsSessionRange" locked="0" position-lock-style="AudioTime" timestamp="1631647975"/>
+        <Location id="841" name="Loop" start="46436" end="283198" flags="IsAutoLoop" locked="0" position-lock-style="AudioTime" timestamp="1631649510"/>
+      </Locations>
+      <Locations>
+        <Location id="168" name="session" start="0" end="576000" flags="IsSessionRange" locked="0" position-lock-style="AudioTime" timestamp="1631647975"/>
+        <Location id="841" name="Loop" start="0" end="283198" flags="IsAutoLoop" locked="0" position-lock-style="AudioTime" timestamp="1631649510"/>
+      </Locations>
+    </MementoCommand>
+    <MementoCommand obj-id="46" type-name="VideoTimeLine">
+      <SelectionMemento mouse-mode="MouseObject" zoom="1222" left-frame="0" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="756"/>
+          </Regions>
+          <Marker id="841" start="1"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="1222" left-frame="0" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="756"/>
+          </Regions>
+          <Marker id="841" start="1"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1631649512" tv-usec="580707" name="move marker">
+    <MementoCommand obj-id="52" type-name="ARDOUR::Locations">
+      <Locations>
+        <Location id="168" name="session" start="0" end="576000" flags="IsSessionRange" locked="0" position-lock-style="AudioTime" timestamp="1631647975"/>
+        <Location id="841" name="Loop" start="0" end="283198" flags="IsAutoLoop" locked="0" position-lock-style="AudioTime" timestamp="1631649510"/>
+      </Locations>
+      <Locations>
+        <Location id="168" name="session" start="0" end="576000" flags="IsSessionRange" locked="0" position-lock-style="AudioTime" timestamp="1631647975"/>
+        <Location id="841" name="Loop" start="0" end="576000" flags="IsAutoLoop" locked="0" position-lock-style="AudioTime" timestamp="1631649510"/>
+      </Locations>
+    </MementoCommand>
+    <MementoCommand obj-id="46" type-name="VideoTimeLine">
+      <SelectionMemento mouse-mode="MouseObject" zoom="1222" left-frame="0" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="756"/>
+          </Regions>
+          <Marker id="841" start="0"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="1222" left-frame="0" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="756"/>
+          </Regions>
+          <Marker id="841" start="0"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1631649515" tv-usec="771990" name="new range marker">
+    <MementoCommand obj-id="52" type-name="ARDOUR::Locations">
+      <Locations>
+        <Location id="168" name="session" start="0" end="576000" flags="IsSessionRange" locked="0" position-lock-style="AudioTime" timestamp="1631647975"/>
+        <Location id="841" name="Loop" start="0" end="576000" flags="IsAutoLoop" locked="0" position-lock-style="AudioTime" timestamp="1631649510"/>
+      </Locations>
+      <Locations>
+        <Location id="168" name="session" start="0" end="576000" flags="IsSessionRange" locked="0" position-lock-style="AudioTime" timestamp="1631647975"/>
+        <Location id="841" name="Loop" start="0" end="576000" flags="IsAutoLoop" locked="0" position-lock-style="AudioTime" timestamp="1631649510"/>
+        <Location id="852" name="range1" start="50102" end="286864" flags="IsRangeMarker" locked="0" position-lock-style="AudioTime" timestamp="1631649515"/>
+      </Locations>
+    </MementoCommand>
+    <MementoCommand obj-id="46" type-name="VideoTimeLine">
+      <SelectionMemento mouse-mode="MouseObject" zoom="1222" left-frame="0" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="756"/>
+          </Regions>
+          <Marker id="841" start="0"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="1222" left-frame="0" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="756"/>
+          </Regions>
+          <Marker id="841" start="0"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1631649516" tv-usec="444425" name="move marker">
+    <MementoCommand obj-id="52" type-name="ARDOUR::Locations">
+      <Locations>
+        <Location id="168" name="session" start="0" end="576000" flags="IsSessionRange" locked="0" position-lock-style="AudioTime" timestamp="1631647975"/>
+        <Location id="841" name="Loop" start="0" end="576000" flags="IsAutoLoop" locked="0" position-lock-style="AudioTime" timestamp="1631649510"/>
+        <Location id="852" name="range1" start="50102" end="286864" flags="IsRangeMarker" locked="0" position-lock-style="AudioTime" timestamp="1631649515"/>
+      </Locations>
+      <Locations>
+        <Location id="168" name="session" start="0" end="576000" flags="IsSessionRange" locked="0" position-lock-style="AudioTime" timestamp="1631647975"/>
+        <Location id="841" name="Loop" start="0" end="576000" flags="IsAutoLoop" locked="0" position-lock-style="AudioTime" timestamp="1631649510"/>
+        <Location id="852" name="range1" start="0" end="286864" flags="IsRangeMarker" locked="0" position-lock-style="AudioTime" timestamp="1631649515"/>
+      </Locations>
+    </MementoCommand>
+    <MementoCommand obj-id="46" type-name="VideoTimeLine">
+      <SelectionMemento mouse-mode="MouseObject" zoom="1222" left-frame="0" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="756"/>
+          </Regions>
+          <Marker id="852" start="1"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="1222" left-frame="0" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="756"/>
+          </Regions>
+          <Marker id="852" start="1"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1631649517" tv-usec="583610" name="move marker">
+    <MementoCommand obj-id="52" type-name="ARDOUR::Locations">
+      <Locations>
+        <Location id="168" name="session" start="0" end="576000" flags="IsSessionRange" locked="0" position-lock-style="AudioTime" timestamp="1631647975"/>
+        <Location id="841" name="Loop" start="0" end="576000" flags="IsAutoLoop" locked="0" position-lock-style="AudioTime" timestamp="1631649510"/>
+        <Location id="852" name="range1" start="0" end="286864" flags="IsRangeMarker" locked="0" position-lock-style="AudioTime" timestamp="1631649515"/>
+      </Locations>
+      <Locations>
+        <Location id="168" name="session" start="0" end="576000" flags="IsSessionRange" locked="0" position-lock-style="AudioTime" timestamp="1631647975"/>
+        <Location id="841" name="Loop" start="0" end="576000" flags="IsAutoLoop" locked="0" position-lock-style="AudioTime" timestamp="1631649510"/>
+        <Location id="852" name="range1" start="0" end="576000" flags="IsRangeMarker" locked="0" position-lock-style="AudioTime" timestamp="1631649515"/>
+      </Locations>
+    </MementoCommand>
+    <MementoCommand obj-id="46" type-name="VideoTimeLine">
+      <SelectionMemento mouse-mode="MouseObject" zoom="1222" left-frame="0" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="756"/>
+          </Regions>
+          <Marker id="852" start="0"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="1222" left-frame="0" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="756"/>
+          </Regions>
+          <Marker id="852" start="0"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1631650069" tv-usec="445508" name="delete objects">
+    <StatefulDiffCommand obj-id="740" type-name="ARDOUR::AudioPlaylist">
+      <Changes>
+        <Regions>
+          <Remove id="756"/>
+        </Regions>
+      </Changes>
+    </StatefulDiffCommand>
+    <MementoCommand obj-id="45" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="1222" left-frame="0" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="756"/>
+          </Regions>
+          <Marker id="852" start="0"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="1222" left-frame="0" y-origin="0">
+        <Selection>
+          <Marker id="852" start="0"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+</UndoHistory>
